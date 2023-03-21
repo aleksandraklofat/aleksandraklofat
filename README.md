@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleksandraklofat
 - 👀 I’m interested in Data Science, Data Viz
-- 🌱 I’m currently learning Natural Language Processing / Transformers
+- 🌱 Natural Language Processing / Transformers
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me klofat@datenverstehen.de
 
